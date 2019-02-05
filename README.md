@@ -1,1 +1,1 @@
-Zappy
+GUI for Zappy Project
